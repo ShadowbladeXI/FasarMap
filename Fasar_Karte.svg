@@ -37,11 +37,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90550912"
-     inkscape:cx="2531.7058"
-     inkscape:cy="2031.8409"
+     inkscape:zoom="0.45275456"
+     inkscape:cx="1863.1197"
+     inkscape:cy="1694.5872"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
@@ -55,7 +55,7 @@
      viewbox-x="0"
      scale-x="0.269324"
      viewbox-y="0"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:object-paths="true">
     <inkscape:grid
        units="mm"
@@ -739,7 +739,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g1032"
-       transform="translate(52.253184,-228.52898)">
+       transform="matrix(0.45902713,0,0,0.45902713,103.49483,-128.2868)">
       <rect
          style="fill:#494848;fill-opacity:1;stroke:#000000;stroke-width:0.0269875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1027"
@@ -765,14 +765,14 @@
     <g
        id="g1032-5"
        style="display:inline"
-       transform="rotate(32.031507,474.42745,173.18713)">
+       transform="matrix(0.34559538,0.2162163,-0.2162163,0.34559538,153.33791,-102.40504)">
       <rect
-         style="fill:#494848;fill-opacity:1;stroke:#000000;stroke-width:0.0269875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#494848;fill-opacity:1;stroke:#000000;stroke-width:0.03470318;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1027-6"
-         width="2.1381562"
-         height="0.76839989"
-         x="95.649078"
-         y="184.9505" />
+         width="2.7494514"
+         height="0.98808408"
+         x="95.719666"
+         y="184.81247" />
       <rect
          style="display:inline;fill:#494848;fill-opacity:1;stroke:#000000;stroke-width:0.0269875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1007-1-8"

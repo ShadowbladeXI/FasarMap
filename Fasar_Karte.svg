@@ -40,11 +40,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1443979"
-     inkscape:cx="2158.6253"
-     inkscape:cy="3529.2528"
+     inkscape:zoom="1.072199"
+     inkscape:cx="2249.7584"
+     inkscape:cy="3521.4815"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1600"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -16346,6 +16346,41 @@
        y="-29.353996"
        transform="matrix(-0.99376553,-0.11149022,0.11547148,-0.9933108,0,0)"
        inkscape:label="Bethaus des Rastullah" />
+    <circle
+       style="opacity:0.992;fill:#494848;fill-opacity:1;stroke:none;stroke-width:0.0142517;stroke-linecap:square;stroke-dasharray:0.0142517, 0.0142517"
+       id="path4034"
+       cx="86.697426"
+       cy="20.675682"
+       r="0.13292056"
+       inkscape:label="Wachturm" />
+    <circle
+       style="display:inline;opacity:0.992;fill:#494848;fill-opacity:1;stroke:none;stroke-width:0.0142517;stroke-linecap:square;stroke-dasharray:0.0142517, 0.0142517"
+       id="path4034-5"
+       cx="98.59449"
+       cy="48.61248"
+       r="0.13292056"
+       inkscape:label="Wachturm" />
+    <circle
+       style="display:inline;opacity:0.992;fill:#494848;fill-opacity:1;stroke:none;stroke-width:0.0142517;stroke-linecap:square;stroke-dasharray:0.0142517, 0.0142517"
+       id="path4034-56"
+       cx="164.7218"
+       cy="47.99086"
+       r="0.13292056"
+       inkscape:label="Wachturm" />
+    <circle
+       style="display:inline;opacity:0.992;fill:#494848;fill-opacity:1;stroke:none;stroke-width:0.0142517;stroke-linecap:square;stroke-dasharray:0.0142517, 0.0142517"
+       id="path4034-2"
+       cx="167.54636"
+       cy="25.959276"
+       r="0.13292056"
+       inkscape:label="Wachturm" />
+    <circle
+       style="display:inline;opacity:0.992;fill:#494848;fill-opacity:1;stroke:none;stroke-width:0.0142517;stroke-linecap:square;stroke-dasharray:0.0142517, 0.0142517"
+       id="path4034-7"
+       cx="134.11684"
+       cy="38.121506"
+       r="0.13292056"
+       inkscape:label="Wachturm" />
   </g>
   <g
      id="blender_object_contourLines_GP"
@@ -18171,6 +18206,71 @@
            style="stroke-width:1" /></flowRegion><flowPara
          style="fill:#000000;fill-opacity:1"
          id="flowPara4344">Bethaus</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2079-9-8-7"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.07125864,0,0,0.07125864,-40.245939,105.40703)"><flowRegion
+         id="flowRegion2081-7-3-7"><rect
+           id="rect2083-4-0-5"
+           width="133.14244"
+           height="40.60659"
+           x="2411.4011"
+           y="2491.0522" /></flowRegion><flowPara
+         id="flowPara2085-9-9-0"
+         style="font-size:8px">Wachturm</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2079-9-8-7-9"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.07125864,0,0,0.07125864,-74.532705,116.79571)"><flowRegion
+         id="flowRegion2081-7-3-7-1"><rect
+           id="rect2083-4-0-5-8"
+           width="133.14244"
+           height="40.60659"
+           x="2411.4011"
+           y="2491.0522" /></flowRegion><flowPara
+         id="flowPara2085-9-9-0-8"
+         style="font-size:8px">Wachturm</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2079-9-8-7-2"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.07125864,0,0,0.07125864,-86.645267,88.011054)"><flowRegion
+         id="flowRegion2081-7-3-7-5"><rect
+           id="rect2083-4-0-5-6"
+           width="133.14244"
+           height="40.60659"
+           x="2411.4011"
+           y="2491.0522" /></flowRegion><flowPara
+         id="flowPara2085-9-9-0-5"
+         style="font-size:8px">Wachturm</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2079-9-8-7-8"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.07125864,0,0,0.07125864,-7.2916188,116.28182)"><flowRegion
+         id="flowRegion2081-7-3-7-58"><rect
+           id="rect2083-4-0-5-5"
+           width="133.14244"
+           height="40.60659"
+           x="2411.4011"
+           y="2491.0522" /></flowRegion><flowPara
+         id="flowPara2085-9-9-0-2"
+         style="font-size:8px">Wachturm</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2079-9-8-7-0"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.07125864,0,0,0.07125864,-5.8347889,93.160521)"><flowRegion
+         id="flowRegion2081-7-3-7-9"><rect
+           id="rect2083-4-0-5-56"
+           width="133.14244"
+           height="40.60659"
+           x="2411.4011"
+           y="2491.0522" /></flowRegion><flowPara
+         id="flowPara2085-9-9-0-58"
+         style="font-size:8px">Wachturm</flowPara></flowRoot>
   </g>
   <g
      id="layer3"
